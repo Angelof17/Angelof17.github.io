@@ -818,7 +818,8 @@
               "font-weight": "600",
               "text-align": "center",
               "padding-bottom": "2rem",
-              "text-decoration": "underline"
+              "text-decoration": "underline",
+              "color": "red"
             },
             ".item-box-btn": {
               "display": "inline-block"
