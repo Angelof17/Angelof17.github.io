@@ -45,9 +45,11 @@
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<!-- Google Tag Manager -->\r\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-K55QCJS&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\r\n",
+    "google-analytics": "<!-- Google Tag Manager -->\r\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-K55QCJS>m.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\r\n",
     "sitemapSwitcher": "on",
-    "сanonical-url": "https://promocao.telepetracoes.com.br"
+    "сanonical-url": "https://promocao.telepetracoes.com.br",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/Reweb/Documents/GitHub/Angelof17.github.io"
   },
   "pages": {
     "index.html": {
