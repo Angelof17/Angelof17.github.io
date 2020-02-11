@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "como-fazer-parcerias-no-instagram.html",
     "theme": {
       "name": "commercem4",
       "title": "CommerceM4",
@@ -66,7 +66,8 @@
     "lazyType": "nothing",
     "cookiesAlert": false,
     "gdpr": false,
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-112335991-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-112335991-2');\n</script>\n"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-112335991-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-112335991-2');\n</script>\n",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -1286,6 +1287,8 @@
           "_customHTML": "<section class=\"extShop mbr-gallery\" group=\"Additional Blocks\" once=\"shops\" plugins=\"mobirise-shop,Gallery\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" inline>\n        <input type=\"color\" title=\"Item Hover Overlay\" name=\"itemOverlay\" value=\"#ffffff\">\n        <input type=\"range\" inline title=\"Hover Opacity\" name=\"itemOverlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\">\n        <input type=\"color\" title=\"On Sale Bg\" name=\"saleBg\" value=\"#ec412b\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <input type=\"shop\" title=\"Shop\" name=\"shop\" buttons=\"black\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-shop=\"shop\" class=\"mbr-shop\"></div>\n    </div>\n\n</section>",
           "_cid": "rPQWBOjzM2",
           "_anchor": "extShop1-0",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
           "_protectedParams": [
             "shop__showSidebar",
             "shop__reverseSidebar",
@@ -1397,9 +1400,7 @@
                 "title": ""
               }
             ]
-          },
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          }
         },
         {
           "_styles": {
@@ -1886,7 +1887,7 @@
         }
       ]
     },
-    "como-fazer-parcerias-no-instagra.html": {
+    "como-fazer-parcerias-no-instagram.html": {
       "settings": {
         "title": "Como fazer parcerias no instagram?",
         "order": 1,
@@ -2249,11 +2250,11 @@
           "_cid": "qIuNheldqe",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
+          "_anchor": "menu1-6",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu1-6"
+          "_params": {}
         },
         {
           "alias": false,
@@ -2270,11 +2271,11 @@
           "_name": "content9",
           "_customHTML": "<section group=\"Content\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!--Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/mbr-1.jpg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-md-12 align-center\" mbr-if=\"showTitle || showSubtitle\">\n                <h2 mbr-if=\"showTitle\" class=\"mbr-section-title align-left mbr-fonts-style mbr-bold mbr-white\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    Como fazer parcerias no instagram</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-left mbr-fonts-style mbr-white pt-2\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">Você sabe como fazer <b>parcerias no Instagram</b>?</h3>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rQcT1qHNkS",
+          "_anchor": "content9-8",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content9-8"
+          "_params": {}
         },
         {
           "alias": false,
@@ -2286,11 +2287,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-md-12\">\n                <p class=\"mbr-text m-0 mbr-fonts-style mbr-black\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">A resposta dessa pergunta pode fazer toda a diferença para os seus resultados nessa rede social.\n<br>\n<br>Primeiro porque o Instagram já se tornou a segunda rede mais utilizada no Brasil. Com 1 bilhão de usuários em todo o mundo, é a aposta de muitas empresas que querem atrair clientes e ter mais visibilidade.\n<br>\n<br>E, segundo, porque essa é uma rede social perfeita para parcerias. Os instagrammers estão aí, como uma das possibilidades.\n<br>\n<br>Além de estabelecer uma relação mais sólida com os potenciais clientes, as parcerias no Instagram podem te ajudar a atrair novos seguidores, converter leads, reforçar seu branding e, claro, vender mais.\n<br>\n<br>Porém, como fazer parcerias no Instagram para aumentar o engajamento e o número de seguidores? Continue a leitura e veja nossas dicas!\n<br>\n<br>Como fazer parcerias no Instagram?\n<br>Para te ajudar a acertar a mão na hora de fazer parcerias com influenciadores digitais do Instagram, separamos cinco dicas simples e super importantes! Veja abaixo!\n<br>\n<br><b>1. Encontre um influenciador com valores alinhados aos da marca\n</b><br>Imagine a seguinte situação: você faz parceria com algum influencer e logo ele começa a postar mensagens homofóbicas, racistas e preconceituosas. Seria um caos, certo?\n<br>\n<br>Mas, foi isso que aconteceu na Copa do Mundo de 2018, quando o youtuber Julio Cocielo fez uma declaração racista contra o jogador francês Mbappé.\n<br>\n<br>Com o passar dos dias, a situação piorou, porque vários tweets antigos do mesmo tom foram encontrados.\n<br>\n<br>O resultado? Adidas, Itaú e Submarino cancelaram a parceria com o profissional para evitar problemas às suas imagens e reputações.\n<br>\n<br>Esse é, portanto, uma das dicas mais relevantes que podemos te dar. É o ponto de partida para sua parceria no Instagram dar certo.\n<br>\n<br><b>Então, faça boas escolhas.\n</b><br>\n<br>Um influenciador que não corresponda ao seu público-alvo tampouco trará resultados. O ideal é ter em mente o perfil que deseja e procurá-lo. Depois disso, você parte para a análises como taxa de engajamento, número de seguidores, etc.\n<br>\n<br><b>2. Considere o TakeOver\n</b><br>O TakeOVer é uma prática que consiste em deixar o influenciador tomar conta do seu perfil por um período específico.\n<br>\n<br>Essa ação costuma aumentar o engajamento e trazer proximidade dos seguidores do perfil com a marca.\n<br>\n<br>Neste caso, o propósito é fazer uma promoção cruzada. Os instagrammers publicam fotos no perfil das marcas e mostram o que é desejado. Além disso, podem ser explorados vídeos, live videos e stories.\n<br>\n<br>Para saber como fazer uma parceria no Instagram que tenha êxito, o ideal é definir um objetivo bem claro e planejar o que deverá ser feito.\n<br>\n<br>Insira o influenciador no processo desde o princípio para ter uma visão mais clara do que dará certo e qual conteúdo apresentará os resultados esperados.\n<br>\n<br><b>3. Crie uma hashtag própria</b>\n<br>Criar uma hashtag para a ação é fundamental para ampliar o alcance, gerar engajamento e monitorar as postagens e os comentários da campanha.\n<br>\n<br>Mais que isso, a hashtag permite avaliar a performance obtido pelo número de publicações, impressões etc.\n<br>\n<br>O cuidado necessário é que a hashtag precisa ser específica e ter a ver com a ação realizada. Por exemplo, a revista Estilo, que é uma publicação de moda, utilizou #ThássiaNaEstilo para mostrar a ação que fez com a blogueira Thássia Naves.\n<br>\n<br>Utilize também a mais conhecida, como a #takeover.\n<br>\n<br><b>4. Use a mLabs para encontrar potenciais influenciadores\n</b><br>Encontrar grandes influenciadores digitais é simples. Eles estão aí, todo mundo conhece, você provavelmente sabe quem são.\n<br>\n<br>Mas, esse não necessariamente é o melhor caminho para fazer parcerias no Instagram.\n<br>\n<br>Pequenos, ou melhor, micro-influenciadores podem ser a melhor opção para marcas que não podem investir grandes montantes, e que desejam falar com nichos muito específicos.\n<br>\n<br>E, para descobrir esses instagrammers, o ideal é contar com tecnologia.\n<br>\n<br>Pela mLabs, você poderá descobrir influenciadores do nicho da marca, poderá analisar a taxa de engajamento e o volume de seguidores deles. Bem simples.\n<br>\n<br>gráfico de influenciadores da mLabs\n<br>\n<br><b>5. Meça os resultados\n</b><br>Já colocou as ideias em prática? Começou a fazer parcerias no Instagram?\n<br>\n<br>Então, é hora de mensurar os resultados.\n<br>\n<br>Como qualquer ação, isso é imprescindível para saber o que é preciso ajustar, se os dados confirmam as expectativas e se o público-alvo está sendo alcançado.\n<br>\n<br>Para entender tudo isso, duas coisas são imprescindíveis:\n<br>\n<br>Todos os links divulgados pelos influenciadores para divulgar a marca devem ter sido cuidadosamente parametrizados com Google UTM. Só assim você conseguirá medir o tráfego dessas ações através do Google Analytics.\n<br>Usar uma plataforma de gerenciamento de redes sociais para analisar os resultados. Isso inclui a taxa de engajamento, análise detalhada das interações, alcance pago e orgânico dos posts, entre outros. Se as ações aconteceram nas redes sociais do influencer, é importante ter essa integração com uma plataforma de gestão de redes sociais alinhada antes de começar a ação. Ao final, é só pedir para que ele gere um relatório de desempenho.<br><br>Fonte:&nbsp;https://www.mlabs.com.br/blog/como-fazer-parcerias-no-instagram/<br><br></p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rQcTbb9gcY",
+          "_anchor": "content1-9",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-9"
+          "_params": {}
         },
         {
           "_styles": {
