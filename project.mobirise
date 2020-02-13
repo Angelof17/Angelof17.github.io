@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "como-fazer-parcerias-no-instagram.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "commercem4",
       "title": "CommerceM4",
@@ -73,8 +73,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Fazer Parcerias No Instagram",
-        "meta_descr": "A forma mais rápida de conseguir parcerias no instagram. Conheça nossos parceiros, faça contado e otimize seus resultados.",
+        "title": "Como Conseguir Parcerias No Instagram | Vejas Nossos Parceiros",
+        "meta_descr": "Saiba como fechar excelentes parcerias com influenciadores digitais no Instagram com dicas rápidas e eficazes, que trarão destaque para seu negócio! Veja nossos parceiros.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1887,11 +1887,11 @@
         }
       ]
     },
-    "como-fazer-parcerias-no-instagram.html": {
+    "veja-nossas dicas-de-como-fazer-parcerias-no-instagram.html": {
       "settings": {
-        "title": "Como fazer parcerias no instagram?",
+        "title": "Vejas Nossas Dicas de Como Fazer Parcerias no instagram",
         "order": 1,
-        "meta_descr": "Como fazer parcerias no Instagram? Entenda como aproveitar todo o potencial desses influeciadores para otimizar seus resultados nessa rede social!"
+        "meta_descr": "Como fazer parcerias no Instagram? Entenda como aproveitar todo o potencial desses influeciadores para otimizar seus resultados nessa rede social! Saiba como fechar excelentes parcerias."
       },
       "components": [
         {
