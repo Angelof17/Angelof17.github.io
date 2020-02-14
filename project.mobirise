@@ -3058,7 +3058,7 @@
             }
           },
           "_name": "extShop1",
-          "_customHTML": "<section class=\"extShop mbr-gallery\" group=\"Additional Blocks\" once=\"shops\" plugins=\"mobirise-shop,Gallery\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked=\"\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" inline=\"\">\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" inline=\"\">\n        <input type=\"color\" title=\"Item Hover Overlay\" name=\"itemOverlay\" value=\"#ffffff\">\n        <input type=\"range\" inline=\"\" title=\"Hover Opacity\" name=\"itemOverlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\">\n        <input type=\"color\" title=\"On Sale Bg\" name=\"saleBg\" value=\"#ec412b\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <input type=\"shop\" title=\"Shop\" name=\"shop\" buttons=\"black\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-shop=\"shop\" class=\"mbr-shop\"></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"extShop mbr-gallery\" group=\"Additional Blocks\" once=\"shops\" plugins=\"mobirise-shop,Gallery\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" inline>\n        <input type=\"color\" title=\"Item Hover Overlay\" name=\"itemOverlay\" value=\"#ffffff\">\n        <input type=\"range\" inline title=\"Hover Opacity\" name=\"itemOverlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\">\n        <input type=\"color\" title=\"On Sale Bg\" name=\"saleBg\" value=\"#ec412b\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <input type=\"shop\" title=\"Shop\" name=\"shop\" buttons=\"black\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-shop=\"shop\" class=\"mbr-shop\"></div>\n    </div>\n\n</section>",
           "_anchor": "extShop1-b",
           "_isUserblock": true,
           "_sourceTheme": "commercem4",
@@ -3110,7 +3110,7 @@
                 "onSale": true,
                 "oldPrice": false,
                 "itemTitle": "Luci Sincero Oficial",
-                "itemDescription": "Todos tipos de parcerias dentro do meu segmento.\r<div><br></div>",
+                "itemDescription": "Todos tipos de parcerias dentro do meu segmento.\n<div><br></div>",
                 "itemPriceTitle": "From: ",
                 "itemPrice": "",
                 "oldPriceValue": "$62",
@@ -3124,8 +3124,8 @@
                 "customStyleTags": "display-4",
                 "caption": "Digite aqui a legenda",
                 "active": false,
-                "alt": "",
-                "title": ""
+                "alt": "Saiba como fechar excelentes parcerias com influenciadores digitais no Instagram com dicas rápidas e eficazes, que trarão destaque para seu negócio! Veja nossos parceiros.",
+                "title": "Saiba como fechar excelentes parcerias com influenciadores digitais no Instagram com dicas rápidas e eficazes, que trarão destaque para seu negócio! Veja nossos parceiros."
               },
               {
                 "tags": "Maravilhoso",
@@ -3147,8 +3147,8 @@
                 "customStyleTags": "display-4",
                 "caption": "Digite aqui a legenda",
                 "active": false,
-                "alt": "",
-                "title": ""
+                "alt": "Saiba como fechar excelentes parcerias com influenciadores digitais no Instagram com dicas rápidas e eficazes, que trarão destaque para seu negócio! Veja nossos parceiros.",
+                "title": "Saiba como fechar excelentes parcerias com influenciadores digitais no Instagram com dicas rápidas e eficazes, que trarão destaque para seu negócio! Veja nossos parceiros."
               },
               {
                 "tags": "Criativo",
@@ -3170,8 +3170,8 @@
                 "customStyleTags": "display-4",
                 "caption": "Digite aqui a legenda",
                 "active": true,
-                "alt": "",
-                "title": ""
+                "alt": "Saiba como fechar excelentes parcerias com influenciadores digitais no Instagram com dicas rápidas e eficazes, que trarão destaque para seu negócio! Veja nossos parceiros.",
+                "title": "Saiba como fechar excelentes parcerias com influenciadores digitais no Instagram com dicas rápidas e eficazes, que trarão destaque para seu negócio! Veja nossos parceiros."
               }
             ]
           }
